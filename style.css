@@ -65,8 +65,7 @@ main p {
 }
 
 .columns {
-    column-count: 3;
-    column-width: 33%;
+    font-size: 0;
 }
 
 .columns p {
